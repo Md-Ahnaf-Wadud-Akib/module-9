@@ -6,11 +6,13 @@ body{
 .background{
     background-color: rgb(191, 208, 243);
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     
 }
 
-.box-1{
+.box{
     
     border: 5px solid blue;
     background-color: whitesmoke;
@@ -63,6 +65,19 @@ body{
 }
 .text-color{
     color: violet;
+}
+
+.course-topic{
+    display: flex;
+    
+}
+.course{
+    margin-right: 100px;
+}
+
+.course img{
+    width: 200px;
+    height: 150px;
 }
 
     
