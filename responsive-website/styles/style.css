@@ -56,7 +56,7 @@ body{
     
     
 }
-
+.
 .blog img{
     width: 177px;
     height: 117px;
@@ -81,13 +81,45 @@ body{
     
 }
 .course{
-    margin-right: 100px;
+    height: 269.79px;
+    width: 252.42px;
 }
 
 .course img{
-    width: 200px;
-    height: 150px;
+    width: 224px;
+    height: 104px;
 }
+.fa-star.gold{
+    width: 12.25px;
+    height: 11.75px;
+    color: #FFC014;
+    margin-right: 3.24px;
+}
+.fa-star.nongold{
+    width: 12.39px;
+    height: 11.81px;
+    color: #AEAEAE;
+}
+.star-point{
+    margin-left: 10.71px;
+}
+.icon-style{
+    width: 94.83px;
+    height: 29.38px;
+    border-radius: 14.69px;
+    background-color: #FFE4E8;  
+}
+.fa-clock{
+    width: 20.03px;
+    height: 20.03px;
+    color: #FF4A60;
+    padding: 5px;
+}
+.course-time{
+    color: #FF4A60;
+    
+}
+
 
     
     
